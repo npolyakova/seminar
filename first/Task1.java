@@ -1,3 +1,5 @@
+package first;
+
 public class Task1 {
 
     // Найти длину окружности радиуса 4. 2π × r
