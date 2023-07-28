@@ -1,4 +1,4 @@
-package first;
+package base;
 
 public class Task1 {
 
